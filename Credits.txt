@@ -1,0 +1,33 @@
+Healthbar images by Dylan Bender
+https://www.kindpng.com/imgv/mwJbwJ_health-bar-sprite-sheet-png-download-health-bar/
+
+Player(ufo) images by Olga Romero Lopez, olgaslaboratory@gmail.com
+https://olgas-lab.itch.io/animated-ufos
+
+Background images by SethByrd, https://www.sethbyrd.com/
+https://opengameart.org/content/starry-night-background
+
+Eirian and Novem font by GGBotNet, https://www.ggbot.net/fonts/
+https://ggbot.itch.io/eirian-font
+https://ggbot.itch.io/novem-font
+
+Menu-screen music "Where was I" by YD
+https://opengameart.org/content/where-was-i
+
+Game music "Curious Critters" by Matthew Pablo, www.matthewpablo.com
+https://opengameart.org/content/curious-critters
+
+Star-catching sound by Brandon75689
+https://opengameart.org/content/point-bell
+
+Arrow-bumping sound by Kenney, www.kenney.nl
+https://www.kenney.nl/assets/impact-sounds
+
+
+
+This game was developed based on the game I created while attending the Python marathon by GoIT (in Ukrainian).
+https://python-game.lp.goit.global/ua/?utm_source=google&utm_medium=cpc&utm_campaign=19735749588&utm_term=141712115250|649566821914||go%20it%20python&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3FvpNvla_TFnClnehC6V2bnXNFGOYmZWFE9kfTfcR4dOO5oGkGCBoxoCFVQQAvD_BwE
+
+
+
+
