@@ -1,5 +1,6 @@
-# simple-pygame-game
-This is my first game made in Python using Pygame.
+# Shooting Star
+Just simple 2D game. It was written using Python and Pygame. To control the player, you can use arrow keys.
+All the Python scripts in this project are written for Python 3.x.
 
 ## Game Screenshots
 
@@ -12,6 +13,6 @@ This is my first game made in Python using Pygame.
 Please read [Credits.txt](Credits.txt)
 
 ## Installation
-1. Dowlnoad files as zip package
+1. Dowlnoad files as zip archive file
 2. Unpack it
 3. Run `shooting_star.exe`
