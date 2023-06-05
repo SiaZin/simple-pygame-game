@@ -29,5 +29,7 @@ This game was developed based on the game I created while attending the Python m
 https://python-game.lp.goit.global/ua/?utm_source=google&utm_medium=cpc&utm_campaign=19735749588&utm_term=141712115250|649566821914||go%20it%20python&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3FvpNvla_TFnClnehC6V2bnXNFGOYmZWFE9kfTfcR4dOO5oGkGCBoxoCFVQQAvD_BwE
 
 
+I also recommend PyGame tutorials from this YouTube channel. They helped me a lot
+https://www.youtube.com/@CodingWithRuss/featured
 
 
