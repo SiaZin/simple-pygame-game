@@ -9,7 +9,7 @@ This is my first game made in Python using Pygame.
 ![gameplay](https://github.com/SiaZin/simple-pygame-game/assets/75366933/c43767b3-9aab-4059-93b7-7be52ffacfcf)
 
 ## Credits
-Please read /Credits.txt
+Please read [Credits.txt](Credits.txt)
 
 ## Installation
 1. Dowlnoad files as zip package
